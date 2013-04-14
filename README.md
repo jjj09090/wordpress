@@ -1,4 +1,1 @@
-wordpress
-=========
-
-wordpress of xiamitang
+wordpres of blog.xiamitang.com
